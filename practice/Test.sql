@@ -1,0 +1,3 @@
+-- CREATE DATABASE test;
+USE test;
+CREATE TABLE student(id INT NOT NULL AUTO_INCREMENT, name VARCHAR(30), phone INT(15));
